@@ -1,3 +1,4 @@
+
 void main(void)
 {
 	m 	= 2;	// master add
@@ -5,3 +6,4 @@ void main(void)
 	d0--;
 	d0 = 0;
 }
+
